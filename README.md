@@ -1,0 +1,2 @@
+# demorepo
+Datakoulutuksen kesäpäivien repositorio.
